@@ -92,7 +92,11 @@ My list of resources for doing internet things.
 
 #### Back-End
 * [Node.js](https://nodejs.org/en/)
+* [Node.js support](https://node.green/)
 * [Express](https://expressjs.com/)
+* [Knex JS Cheatsheet](https://devhints.io/knex)
+
+
 
 #### Libraries
 * [Chart.js](https://www.chartjs.org/)
